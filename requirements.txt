@@ -1,0 +1,4 @@
+pdfplumber
+chromadb
+ollama
+suggested ai model to use gemma4
