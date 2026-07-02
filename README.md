@@ -1,7 +1,7 @@
 # The-context- 
 ## A RAG BASED SYSTEM 🐋
-*Builded on parent - child arcitcture *
-*Builded by PRIYUM DEB*
+* Builded on parent - child arcitcture *
+* Builded by PRIYUM DEB *
 ## Overview
 **The Context** is a production-ready, fully local Retrieval-Augmented Generation (RAG) pipeline designed to extract, process, and query highly complex PDF documents. 
 
